@@ -1,5 +1,5 @@
 # Junior Android Developer Resume
-Hello! My name is *Meshok Alexander* and i want to work in your company.
+Hello! My name is *Meshok Alexander* and I want to work in your company.
 ## Summary
 My goal is to became a great specialist in IT sphere, find something excellent for myself that will be pleasant and enjoyful. I have some ideas for realizations and I want to 
 learn how to earn knowledge for them.
