@@ -23,7 +23,7 @@ My first working experience that i have was my second course project for BSUIR w
 - VCL
 
 ## Experience
-You can see my code in my [GitHub account](https://github.com/HavWho)
+You can see my code at my [GitHub account](https://github.com/HavWho)
 
 ## Education
 At the moment I'm a student of BSUIR (Faculty of Computer Systems and Networks, Information Technology Software)
