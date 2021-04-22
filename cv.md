@@ -34,3 +34,6 @@ At the moment I'm a student of BSUIR (Faculty of Computer Systems and Networks, 
 - Telegram
    - @HavWho
 - [LinkedIn](https://www.linkedin.com/in/alexander-meshok-2ba7181a4/)
+
+## English
+I studied English at school, but did not take any exams. I rate myself at about A2.
